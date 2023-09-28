@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, I'm knediny 👋
 
-<!--
-**knediny/knediny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a keen developer always looking to learn and grow. Welcome to my GitHub page!
 
-Here are some ideas to get you started:
+## 📈 My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![knediny's GitHub stats](https://github-readme-stats.vercel.app/api?username=knediny&show_icons=true&theme=tokyonight)
+
+## 📫 How to reach me
+
+You can contact me via:
+
+Email: knediny@gmail.com
+
